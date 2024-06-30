@@ -41,7 +41,8 @@ Paso 3
 Seleccione colocando en numero la opcion que desea realizar
 
 Paso 4
-Segun lo seleccionado, se le solicitara algun valor, titulo de libro, año o idioma
+Segun lo seleccionado, se le solicitara algun valor, titulo de libro, año
+ o idioma
 
 Paso 5
 En unos segundos, dispondra de la informacion solicitada.
