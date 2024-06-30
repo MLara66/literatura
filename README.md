@@ -8,6 +8,8 @@ Antes de consumir esta Api, debes de tener instalado los siguientes pasos y prog
 
 - Clonar este repositorio con GitHub.
 - Disponer en tu PC de tu entorno de desarrollo integrado como: IntelliJ IDEA
+- Disponer de PgAdmin4 en tu PC debido a que es necesario:
+  Crear la bade de datos: alura_literatura
 
 ## Instalación 🔧
 
@@ -21,7 +23,8 @@ Paso 1
 Ir a la clase Principal + boton derecho Run "LiteraturaApplication... main()"
 
 Paso 2
-Una vez en ejecucion, tendra la oportunidad de elegir a traves de un menu como el siguiente:
+Una vez en ejecucion, tendra la oportunidad de elegir a traves de un menu
+como el siguiente:
 
 ********************************************** 
  
