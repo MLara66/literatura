@@ -1,3 +1,5 @@
+# Literatura
+
 ## 📜  Catalogo de Literatura - Segundo Desafio
 
 Api elaborado con el objetivo de afianzar conocimientos adquiridos durante el curso de Spring Data JPA
@@ -81,10 +83,11 @@ Numero de descargas: 14926.0
 ## Construido con 🛠️
 
 * [IntelliJ IDEA 2023.2.1 (Community Edition)]
+* [pgAdmin4 Version 7.6]
 
 ## Autor ✒️
 
 Maria Lara
 
 =======
-# literatura
+
