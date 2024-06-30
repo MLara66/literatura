@@ -18,7 +18,7 @@ Para ejecutar la Api desde local, puede seguir los siguientes pasos:
 
 ``` 
 Paso 1
-Ir a la clase Principal + boton derecho Run "Conversor Principal... main()"
+Ir a la clase Principal + boton derecho Run "LiteraturaApplication... main()"
 
 Paso 2
 Una vez en ejecucion, tendra la oportunidad de elegir a traves de un menu como el siguiente:
